@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Konstantinos Pouchias</title>
+    <link>https://kpouchias.github.io/My_Portfolio/post/</link>
+    <description>Recent content in Projects on Konstantinos Pouchias</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 02 Sep 2022 12:00:00 -0500</lastBuildDate><atom:link href="https://kpouchias.github.io/My_Portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 1: Coursera Data Science Capstone Project</title>
+      <link>https://kpouchias.github.io/My_Portfolio/post/project-1/</link>
+      <pubDate>Fri, 22 Jul 2022 10:58:08 -0400</pubDate>
+      
+      <guid>https://kpouchias.github.io/My_Portfolio/post/project-1/</guid>
+      <description>Taking the role of a data scientist working for a new rocket company Space Y, that would like to compete with SpaceX, I had to predict whether the first stage of Falcon 9 Rocket will land successfully.
+The following data analysis procedures were used for this project:
+1)Data Collection ( Using the SpaceX API and webcraping)
+2)Data Wrangling
+3)EDA with SQL and Data Visualization(MatplotLib)
+4)Interactive Visual Analytics ( Data Visualization wiht folium and building a Dashboard with Ploty Dash)</description>
+    </item>
+    
+    <item>
+      <title>Project 2: Rent Price Prediction</title>
+      <link>https://kpouchias.github.io/My_Portfolio/post/project-2/</link>
+      <pubDate>Mon, 10 Apr 2017 11:00:59 -0400</pubDate>
+      
+      <guid>https://kpouchias.github.io/My_Portfolio/post/project-2/</guid>
+      <description>Rent Price Prediction in Thessaloniki Greece In this project I tried to predict the rent price of an apartment located in Thessaloniki Greece, as well as determine which is the best model I can use for that purpose.
+This repository contains two files with code.
+1. Webscraping I created a Python script in VS Code, to help me aqcuire the Data from a real estate page, and then I saved them as a csv file.</description>
+    </item>
+    
+  </channel>
+</rss>
